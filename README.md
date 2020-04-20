@@ -1,19 +1,7 @@
-# users-app-num2
+## Descrition
+Testing app wrote in Vue.js <br/>
+The application has 20 random users displayed at the sidelist menu. You can see the main info about them by clicking the links.</br>
+</br>
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Technologies: Vue </br>
+Libraries: node-sass
